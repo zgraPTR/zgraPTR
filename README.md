@@ -1,6 +1,6 @@
 - 👋 こんにちは。私はぜぎりあです
-- 👀 マイクラ(SB、The Hive)、プロセカ、スマブラをしています。
-- 🌱 Python, C#, Java, C++, JavaScriptを勉強しています。
+- 👀 Minecraft(Hypixel SkyBlock、The Hive Murder Mystery)、プロセカをしています。
+- 🌱 Python, C#, Java, C++, JavaScriptで主に作成しています。
 - 📫 連絡先: nea7s@f5.si
 
 <!---
