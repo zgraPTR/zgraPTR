@@ -1,6 +1,6 @@
 - 👋 こんにちは。私はぜぎりあです
 - 👀 Minecraft(Hypixel SkyBlock、The Hive Murder Mystery)、プロセカをしています。
-- 🌱 Python, C#, Java, C++, JavaScriptで主に作成しています。
+- 🌱 Python, C#, Java, JavaScriptで主に作成しています。
 - 📫 連絡先: nea7s@f5.si
 
 <!---
