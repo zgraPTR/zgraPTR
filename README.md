@@ -1,5 +1,4 @@
 - 👋 こんにちは。私はぜぎりあです
-- 👀 主にMinecraft(Hypixel SkyBlock)、プロセカで遊んでいます。
 - 🌱 Python, C#, Java, JavaScript などを使っています。
 - 
 <!---
