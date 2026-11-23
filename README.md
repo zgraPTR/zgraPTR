@@ -7,7 +7,7 @@
 *   **Windows / Desktop:** Rust, C#, C++
 *   **Android:** Kotlin (最近はJavaよりメインで書いています)
 *   **Web / Other:** JavaScript (主に Bun を使用)
-*   **AI Assistant:** Gemini
+*   **AI Assistant:** Gemini → ChatGPT (free) + Strata (qwen3.8-flash-next-iq2_xs)
 
 ## 🎮 趣味
 
